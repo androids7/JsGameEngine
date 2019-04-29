@@ -1,0 +1,8 @@
+
+dsBridge.register('init', function (r, l) {
+     //  return r+l
+   // responseCallback(r+l);
+     document.write("init");
+     return  0
+     //  init(r,l)
+    })
